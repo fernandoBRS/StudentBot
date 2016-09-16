@@ -1,0 +1,78 @@
+C:\source\skype\StudentBot\StudentBot\bin\Bot Application1.dll.config
+C:\source\skype\StudentBot\StudentBot\bin\Bot Application1.dll
+C:\source\skype\StudentBot\StudentBot\bin\Bot Application1.pdb
+C:\source\skype\StudentBot\StudentBot\bin\Autofac.dll
+C:\source\skype\StudentBot\StudentBot\bin\Chronic.dll
+C:\source\skype\StudentBot\StudentBot\bin\Microsoft.Bot.Builder.dll
+C:\source\skype\StudentBot\StudentBot\bin\Microsoft.Bot.Connector.dll
+C:\source\skype\StudentBot\StudentBot\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\source\skype\StudentBot\StudentBot\bin\Microsoft.Rest.ClientRuntime.dll
+C:\source\skype\StudentBot\StudentBot\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\source\skype\StudentBot\StudentBot\bin\Newtonsoft.Json.dll
+C:\source\skype\StudentBot\StudentBot\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\source\skype\StudentBot\StudentBot\bin\System.Net.Http.Formatting.dll
+C:\source\skype\StudentBot\StudentBot\bin\System.Web.Http.dll
+C:\source\skype\StudentBot\StudentBot\bin\System.Web.Http.WebHost.dll
+C:\source\skype\StudentBot\StudentBot\bin\Autofac.xml
+C:\source\skype\StudentBot\StudentBot\bin\Microsoft.Bot.Builder.xml
+C:\source\skype\StudentBot\StudentBot\bin\Microsoft.Bot.Connector.xml
+C:\source\skype\StudentBot\StudentBot\bin\Microsoft.IdentityModel.Protocol.Extensions.pdb
+C:\source\skype\StudentBot\StudentBot\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\source\skype\StudentBot\StudentBot\bin\Microsoft.Rest.ClientRuntime.xml
+C:\source\skype\StudentBot\StudentBot\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\source\skype\StudentBot\StudentBot\bin\Newtonsoft.Json.xml
+C:\source\skype\StudentBot\StudentBot\bin\System.IdentityModel.Tokens.Jwt.pdb
+C:\source\skype\StudentBot\StudentBot\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\source\skype\StudentBot\StudentBot\bin\System.Net.Http.Formatting.xml
+C:\source\skype\StudentBot\StudentBot\bin\System.Web.Http.xml
+C:\source\skype\StudentBot\StudentBot\bin\System.Web.Http.WebHost.xml
+C:\source\skype\StudentBot\StudentBot\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\source\skype\StudentBot\StudentBot\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\source\skype\StudentBot\StudentBot\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\source\skype\StudentBot\StudentBot\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\source\skype\StudentBot\StudentBot\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\source\skype\StudentBot\StudentBot\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\source\skype\StudentBot\StudentBot\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\source\skype\StudentBot\StudentBot\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+C:\source\skype\StudentBot\StudentBot\obj\Release\Bot Application1.dll
+C:\source\skype\StudentBot\StudentBot\obj\Release\Bot Application1.pdb
+C:\source\skype\StudentBot\StudentBot\obj\Release\StudentBot.csprojResolveAssemblyReference.cache
+C:\source\skypebot\StudentBot\StudentBot\bin\Bot Application1.dll.config
+C:\source\skypebot\StudentBot\StudentBot\bin\Bot Application1.dll
+C:\source\skypebot\StudentBot\StudentBot\bin\Bot Application1.pdb
+C:\source\skypebot\StudentBot\StudentBot\bin\Autofac.dll
+C:\source\skypebot\StudentBot\StudentBot\bin\Chronic.dll
+C:\source\skypebot\StudentBot\StudentBot\bin\Microsoft.Bot.Builder.dll
+C:\source\skypebot\StudentBot\StudentBot\bin\Microsoft.Bot.Connector.dll
+C:\source\skypebot\StudentBot\StudentBot\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\source\skypebot\StudentBot\StudentBot\bin\Microsoft.Rest.ClientRuntime.dll
+C:\source\skypebot\StudentBot\StudentBot\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\source\skypebot\StudentBot\StudentBot\bin\Newtonsoft.Json.dll
+C:\source\skypebot\StudentBot\StudentBot\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\source\skypebot\StudentBot\StudentBot\bin\System.Net.Http.Formatting.dll
+C:\source\skypebot\StudentBot\StudentBot\bin\System.Web.Http.dll
+C:\source\skypebot\StudentBot\StudentBot\bin\System.Web.Http.WebHost.dll
+C:\source\skypebot\StudentBot\StudentBot\bin\Autofac.xml
+C:\source\skypebot\StudentBot\StudentBot\bin\Microsoft.Bot.Builder.xml
+C:\source\skypebot\StudentBot\StudentBot\bin\Microsoft.Bot.Connector.xml
+C:\source\skypebot\StudentBot\StudentBot\bin\Microsoft.IdentityModel.Protocol.Extensions.pdb
+C:\source\skypebot\StudentBot\StudentBot\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\source\skypebot\StudentBot\StudentBot\bin\Microsoft.Rest.ClientRuntime.xml
+C:\source\skypebot\StudentBot\StudentBot\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\source\skypebot\StudentBot\StudentBot\bin\Newtonsoft.Json.xml
+C:\source\skypebot\StudentBot\StudentBot\bin\System.IdentityModel.Tokens.Jwt.pdb
+C:\source\skypebot\StudentBot\StudentBot\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\source\skypebot\StudentBot\StudentBot\bin\System.Net.Http.Formatting.xml
+C:\source\skypebot\StudentBot\StudentBot\bin\System.Web.Http.xml
+C:\source\skypebot\StudentBot\StudentBot\bin\System.Web.Http.WebHost.xml
+C:\source\skypebot\StudentBot\StudentBot\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\source\skypebot\StudentBot\StudentBot\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\source\skypebot\StudentBot\StudentBot\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\source\skypebot\StudentBot\StudentBot\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\source\skypebot\StudentBot\StudentBot\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\source\skypebot\StudentBot\StudentBot\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\source\skypebot\StudentBot\StudentBot\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\source\skypebot\StudentBot\StudentBot\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+C:\source\skypebot\StudentBot\StudentBot\obj\Release\StudentBot.csprojResolveAssemblyReference.cache
+C:\source\skypebot\StudentBot\StudentBot\obj\Release\Bot Application1.dll
+C:\source\skypebot\StudentBot\StudentBot\obj\Release\Bot Application1.pdb
