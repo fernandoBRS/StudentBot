@@ -5,4 +5,4 @@ Developed using Microsoft Bot Framework.
 
 Platforms: Skype, Slack, Facebook Messenger, Office 365 Mail and WebChat.
 
-
+![StudentBot on Skype](https://github.com/fernandoBRS/StudentBot/tree/master/images/studentbot-skype.png)
